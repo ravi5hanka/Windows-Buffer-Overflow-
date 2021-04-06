@@ -8,8 +8,8 @@ Immunity Debugger (https://www.immunityinc.com/products/debugger/)
 Vulnserver (https://github.com/stephenbradshaw/vulnserver)
 
 Spiking scripts and fuzzing python program are here.
-STATS spiking script - STATS.spk
-TRUN spiking script - TRUN.spk
+STATS spiking script - STATS.spk ,
+TRUN spiking script - TRUN.spk ,
 Python fuzzing program - fuzzing.py
 
 generic_send_tcp command,
