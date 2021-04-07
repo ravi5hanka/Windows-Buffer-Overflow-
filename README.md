@@ -7,7 +7,7 @@ Needed tools can be downloaded via following links,
 Immunity Debugger (https://www.immunityinc.com/products/debugger/)
 Vulnserver (https://github.com/stephenbradshaw/vulnserver)
 
-Spiking scripts and fuzzing python program are here.
+Spiking scripts and python programs are attached herewith.
 STATS spiking script - STATS.spk ,
 TRUN spiking script - TRUN.spk ,
 Python fuzzing program - fuzzing.py ,
