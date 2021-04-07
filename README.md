@@ -10,6 +10,6 @@ Vulnserver (https://github.com/stephenbradshaw/vulnserver)
 Spiking scripts and fuzzing python program are here.
 STATS spiking script - STATS.spk ,
 TRUN spiking script - TRUN.spk ,
-Python fuzzing program - fuzzing.py
-
+Python fuzzing program - fuzzing.py ,
+Python offset finding program - offset.py
 
